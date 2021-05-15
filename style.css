@@ -1,0 +1,56 @@
+#navbar{
+  background-color: #ff9191;
+}
+
+.navbar-nav{
+  margin-left: auto;
+}
+#Navbar-Brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: 'Ubuntu', sans-serif;
+}
+#Navbar-Link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    margin-left: auto;
+}
+
+.title-image {
+  width: 50%;
+  transform: rotate(25deg);
+  right: 10%;
+}
+
+.container-fluid{
+  padding-left: 20%;
+  padding-right: 10%;
+  background-color: #ff9191;
+}
+#Title {
+
+}
+
+#Features {
+
+}
+
+#Testimonials {
+
+}
+
+#Press{
+
+}
+
+#Pricing {
+
+}
+
+#CTA {
+
+}
+
+#Footer {
+
+}
