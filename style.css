@@ -1,6 +1,3 @@
-#navbar{
-  background-color: #ff9191;
-}
 
 .navbar-nav{
   margin-left: auto;
@@ -9,6 +6,22 @@
   font-size: 2.5rem;
   font-weight: bold;
   font-family: 'Ubuntu', sans-serif;
+}
+
+#anchor {
+  padding-bottom: 10px;
+}
+#bike {
+  padding-bottom: 10px;
+}
+#bomb {
+  padding-bottom: 10px;
+}
+.threewords {
+  color: #000000;
+  padding: 50px ;
+  padding-top: 150px;
+  padding-bottom: 10px;
 }
 #Navbar-Link {
     font-family: 'Montserrat', sans-serif;
@@ -23,16 +36,28 @@
 }
 
 .container-fluid{
-  padding-left: 20%;
+  padding-left: 15%;
   padding-right: 10%;
-  background-color: #ff9191;
+  padding-bottom: 370px;
+  background-image: url(https://vastphotos.com/files/uploads/photos/10332/black-and-white-mountain-photo-l.jpg);
 }
-#Title {
+#buttonone {
+  margin: 10px;
+}
+#buttontwo {
+  margin: 10px;
+}
+#Meetnew {
+  color: #ffffff ;
+}
 
+.icon:hover {
+  color:
 }
 
 #Features {
-
+  background-color: #ffffff;
+  text-align: center;
 }
 
 #Testimonials {
